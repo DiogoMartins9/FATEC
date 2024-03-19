@@ -8,7 +8,7 @@ Esta pasta contém uma Lista de Exercícios de Algoritmos.
 
 ## Autores
 
-- [Diogo Peres]()
+- [Diogo Peres](https://github.com/DiogoMartins9)
 - [Henrique Nery](https://github.com/henriquenery1)
 - [Ellen Eufrasio]()
 - [Giulia Caroline](https://github.com/GiuCaroline)
